@@ -1,2 +1,3 @@
 # IIS-Bindings-Visualiser
-to be done
+
+Programmatically list the configured web sites on a server's IIS instance.
